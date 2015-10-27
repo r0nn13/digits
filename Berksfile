@@ -1,0 +1,1 @@
+cookbook 'digits-server-simple', git: 'git://github.com/christopher5106/digits-server-simple.git'
